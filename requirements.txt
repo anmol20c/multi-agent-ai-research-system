@@ -1,0 +1,25 @@
+
+# LangChain Framework
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+
+# Multi-Agent System
+langgraph
+
+# Search Tool - Tavily
+tavily-python
+
+# Web Scraping - BeautifulSoup
+beautifulsoup4
+requests
+lxml
+
+# Environment Variables
+python-dotenv
+
+# Data Validation
+pydantic
+langchain-groq
+streamlit
